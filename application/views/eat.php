@@ -1,7 +1,7 @@
 <div id="eat">
     <table class="results">
         <tr>
-            <td class="results-image"><img src="" alt="pic" width="100" height="100"></td>
+            <td class="results-image"><img src="/public/images/eat_tuc.jpeg" alt="pic" width="100" height="100"></td>
             <td class="results-description">
                 <h3>Tuc Craft Kitchen</h3>
                 Tuc Craft Kitchen is a restaurant and bar in Gastown, Vancouver.
@@ -15,7 +15,7 @@
             </td>
         </tr>
         <tr>
-            <td class="results-image"><img src="" alt="pic" width="100" height="100"></td>
+            <td class="results-image"><img src="/public/images/eat_pig.jpg" alt="pic" width="100" height="100"></td>
             <td class="results-description">
                 <h3>The Flying Pig</h3>
                 I know what you’re thinking. The Flying Pig? You must have lots of pork on the menu,
@@ -29,7 +29,7 @@
             </td>
         </tr>
         <tr>
-            <td class="results-image"><img src="" alt="pic" width="100" height="100"></td>
+            <td class="results-image"><img src="/public/images/eat_guu.jpg" alt="pic" width="100" height="100"></td>
             <td class="results-description">
                 <h3>Guu with Garlic</h3>
                 Guu ​with Garlic is all about “Garlic is Sexy”. Also called “Guu Robson”, this is the
@@ -43,7 +43,7 @@
             </td>
         </tr>
         <tr>
-            <td class="results-image"><img src="" alt="pic" width="100" height="100"></td>
+            <td class="results-image"><img src="/public/images/eat_tuc.jpeg" alt="pic" width="100" height="100"></td>
             <td class="results-description">
                 <h3>Tuc Craft Kitchen</h3>
                 Tuc Craft Kitchen is a restaurant and bar in Gastown, Vancouver.
@@ -57,7 +57,7 @@
             </td>
         </tr>
         <tr>
-            <td class="results-image"><img src="" alt="pic" width="100" height="100"></td>
+            <td class="results-image"><img src="/public/images/eat_pig.jpg" alt="pic" width="100" height="100"></td>
             <td class="results-description">
                 <h3>The Flying Pig</h3>
                 I know what you’re thinking. The Flying Pig? You must have lots of pork on the menu,
@@ -71,7 +71,7 @@
             </td>
         </tr>
         <tr>
-            <td class="results-image"><img src="" alt="pic" width="100" height="100"></td>
+            <td class="results-image"><img src="/public/images/eat_guu.jpg" alt="pic" width="100" height="100"></td>
             <td class="results-description">
                 <h3>Guu with Garlic</h3>
                 Guu ​with Garlic is all about “Garlic is Sexy”. Also called “Guu Robson”, this is the
@@ -85,7 +85,7 @@
             </td>
         </tr>
         <tr>
-            <td class="results-image"><img src="" alt="pic" width="100" height="100"></td>
+            <td class="results-image"><img src="/public/images/eat_tuc.jpeg" alt="pic" width="100" height="100"></td>
             <td class="results-description">
                 <h3>Tuc Craft Kitchen</h3>
                 Tuc Craft Kitchen is a restaurant and bar in Gastown, Vancouver.
@@ -99,7 +99,7 @@
             </td>
         </tr>
         <tr>
-            <td class="results-image"><img src="" alt="pic" width="100" height="100"></td>
+            <td class="results-image"><img src="/public/images/eat_pig.jpg" alt="pic" width="100" height="100"></td>
             <td class="results-description">
                 <h3>The Flying Pig</h3>
                 I know what you’re thinking. The Flying Pig? You must have lots of pork on the menu,
@@ -113,7 +113,7 @@
             </td>
         </tr>
         <tr>
-            <td class="results-image"><img src="" alt="pic" width="100" height="100"></td>
+            <td class="results-image"><img src="/public/images/eat_guu.jpg" alt="pic" width="100" height="100"></td>
             <td class="results-description">
                 <h3>Guu with Garlic</h3>
                 Guu ​with Garlic is all about “Garlic is Sexy”. Also called “Guu Robson”, this is the
